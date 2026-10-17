@@ -70,6 +70,6 @@ python phase_interp.py   # figures/*.png 생성, 표의 PSNR 출력
 ```
 
 ## 참고
-- Meyer, Wang, Schroers, Sorkine-Hornung et al., *Phase-Based Frame Interpolation for Video*, CVPR 2015
-- Meyer, Djelouah, McWilliams, Sorkine-Hornung, Gross, Schroers, *PhaseNet for Video Frame Interpolation*, CVPR 2018
+- Meyer et al., *Phase-Based Frame Interpolation for Video*, CVPR 2015
+- Meyer et al., *PhaseNet for Video Frame Interpolation*, CVPR 2018
 - Simoncelli & Freeman, *The Steerable Pyramid*, 1995
